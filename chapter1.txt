@@ -1,1 +1,2 @@
 This story is a test.
+This test is a story.
